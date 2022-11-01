@@ -71,4 +71,7 @@ ul > li > a > img {
     display: block;
     margin-right: 0.5rem;
   }
-
+a {
+  color: black;
+  text-decoration: none;
+}
