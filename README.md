@@ -5,4 +5,5 @@ https://github.com/NohailaElmasaoul/link-in-bio
 
 # Technologies 
 
-<img width="849" alt="image" src="https://user-images.githubusercontent.com/93203491/199127735-3b7042a7-0cf6-461a-b2b7-f52460e3c4fe.png">
+<img width="1086" alt="image" src="https://user-images.githubusercontent.com/93203491/199322115-916514a3-a47b-4b1c-a484-a0c2186a32d4.png">
+
